@@ -12,4 +12,4 @@ print("my age is :", age)
 # data type 
 print(type(name))
 print(type(age))
-print(type(price))
+print(type(price))  

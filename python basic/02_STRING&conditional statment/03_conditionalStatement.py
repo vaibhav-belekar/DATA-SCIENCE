@@ -30,7 +30,7 @@ elif(marks>=70 and marks<80):
 else:
     grade="D" 
 
-print("your grade is ",grade)               
+print("your grade is ",grade )               
 
 #nesting in python
 age=95
