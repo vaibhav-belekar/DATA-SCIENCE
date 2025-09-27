@@ -26,3 +26,8 @@ print(student["subjects"]["chem"])
 
 
 #method
+student.keys() #return all keys 
+student.values()#return all values
+student.items()#return all (key, val)pairs as tuple 
+student.get("subjects")#return the key according to tuple
+student.update()#add the specific item to the dictonry
