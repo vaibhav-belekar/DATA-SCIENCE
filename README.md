@@ -10,15 +10,21 @@ This repository contains all the notes, code, and projects I create while explor
 ```
 DATA-SCIENCE/
 │
-├── python basic/        # Python fundamentals (Jupyter Notebooks, exercises)
-│   └── 01_python/       
-│       └── 1.ipynb
+├── 01_PYTHON_BASIC/        # Python fundamentals (variables, loops, functions)
 │
-├── machine learning/    # ML algorithms and implementations (Coming soon)
+├── 02_NUMPY/               # NumPy (arrays, operations, broadcasting)
 │
-├── projects/            # End-to-end data science projects (Coming soon)
+├── 03_PANDAS/              # Pandas (data cleaning, analysis)
 │
-└── README.md            # You are here
+├── 04_MATPLOTLIB/          # Data visualization using Matplotlib
+│
+├── 05_SEABORN/             # Advanced visualization using Seaborn
+│
+├── 06_MACHINE_LEARNING/    # ML algorithms (Coming soon)
+│
+├── PROJECTS/               # End-to-end projects (Coming soon)
+│
+└── README.md
 ```
 
 ---
